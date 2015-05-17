@@ -1,5 +1,7 @@
 #Hackery in Python 
 
+The below is me going through the parts that I liked best from Black Hat Python by Justin Seitz.
+
 ##Web app mapper
 
 Suppose we're trying to compromise a server for which we know the target url then we can hunt for all the files that are reachable on the remote target in the hopes of finding some way to gain root access by inspecting the local file structure of the project.
